@@ -1,0 +1,6 @@
+In HTML, a tag is a keyword or code enclosed in angle brackets (<>) that defines how a specific element should be displayed on a web page. An element is made up of a start tag, content, and an end tag (if applicable). The start and end tags together define the boundaries of the element.
+
+Here's a breakdown of the terms with an example:
+
+Tag:
+A tag is a code that represents a specific HTML element. Tags are used to structure and format content on a web page. Tags are always enclosed in angle brackets, and they come in pairs: a start tag and an end tag.
