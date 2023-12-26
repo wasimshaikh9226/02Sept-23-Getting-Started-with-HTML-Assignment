@@ -1,0 +1,30 @@
+Purpose of Comments in HTML:
+Comments in HTML serve the purpose of adding non-executable notes or annotations within the HTML code. They are ignored by web browsers and are not visible to users on the web page. Comments are useful for developers to include explanations, reminders, or notes for themselves or other developers who may work on the code. They help in documenting the code and making it more understandable.
+
+Example of Using Comments in an HTML Document:
+In HTML, comments are created using the <!-- and --> delimiters. Anything between these delimiters is treated as a comment.
+
+Here's an example:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Comments Example</title>
+</head>
+<body>
+
+    <!-- This is a comment. Comments are not displayed on the web page. -->
+    
+    <h1>Welcome to My Website</h1>
+    <p>This is a sample paragraph.</p>
+
+    <!-- The following section contains information about the author -->
+    <section id="author-info">
+        <h2>Author Information</h2>
+        <p>Author: John Doe</p>
+        <!-- Email address is omitted for privacy reasons -->
+    </section>
+
+</body>
+</html>
